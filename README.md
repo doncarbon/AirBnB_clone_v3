@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Hamza Yassine - [Github](https://github.com/doncarbon)
+Don - [Github](https://github.com/doncarbon)
 
 ## License
 Public Domain. No copy write protection. 
